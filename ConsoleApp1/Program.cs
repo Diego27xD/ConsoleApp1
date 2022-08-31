@@ -16,7 +16,7 @@ namespace BasicoCsharp
             //Declaración variablaes
             //Clases
 
-            Console.WriteLine("CALCULO DE AREA Y PERIMETRO DE UN TRIANGULO");
+            Console.WriteLine("CALCULO DE AREA Y PERIMETRO DE UN RECTANGULO");
 
             //SE SOLICITA EL INGRESO DE LOS 8 PUNTOS PARA REALIZAR LAS OPERACIONES
             Console.WriteLine("Ingrese Valor X1");
